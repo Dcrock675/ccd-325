@@ -7,7 +7,7 @@ def delete_task(event):
 
 # Main window
 root = tk.Tk()
-root.title("Drew's To Do List")   # <-- Updated title
+root.title("Drew's To Do List")
 
 # Menu setup with complementary colors
 menubar = Menu(root, bg="lightblue", fg="darkorange")
